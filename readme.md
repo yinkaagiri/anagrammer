@@ -2,12 +2,13 @@
 
 Write a program that, given a word and a list of possible anagrams, selects the correct one(s).
 
+What makes something an anagram? The two words have the same letters, in a different order.
+
 In other words, given: `"listen"` and `["enlists", "google", "inlets", "banana"]` the program should return "inlets".
 
 Think about: What are some scenarios we should test for?
 
-What makes something an anagram? The two words have the same letters...
-How can we check to see if they have exactly the same letters?
+Note: Don't worry about user interaction.  Just create the methods and show them working using `puts` (or similar).
 
 - Is "Clint Eastwood" really an anagram of "Old West Action"?
 - Is "Eleven plus two" = "Twelve plus one"?
@@ -32,5 +33,7 @@ $ rspec
 
 ## Bonus:
 
-- Make a nice front end.  Allow the user to enter two phrases, indicate if they are anagrams of each other.
-- If not, show where they differ.
+- Ask the user for two words and compare
+- Ask the user for the base word and the list of possible anagrams.
+- Rewrite this in javascript
+- Write a method that checks if a phrase is a palindrome.
