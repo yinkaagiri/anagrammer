@@ -8,3 +8,16 @@ Think about: What are some scenarios we should test for?
 
 What makes something an anagram? The two words have the same letters...
 How can we check to see if they have exactly the same letters?
+
+Is "Clint Eastwood" really an anagram of "Old West Action"?
+Is "Eleven plus two" = "Twelve plus one"?
+Is "Western Union" an anagram of "No Wire Unsent"?
+Does "The Morse Code" have the same letters as "Here come dots"?
+How about "The Great New York Rapid Transit Tunnel" and "Giant work in street, partly underneath"?
+
+You tell us.
+
+Bonus:
+
+- Make a nice from end.  Allow the use to enter two phrases, indicate if they are anagrams of each other.
+- If not, show where they differ.
