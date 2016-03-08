@@ -17,6 +17,16 @@ How about "The Great New York Rapid Transit Tunnel" and "Giant work in street, p
 
 You tell us.
 
+Hint:
+
+Write a method that checks if two words are anagrams.  It should return true/false.  Use this to check the list.
+
+```
+def anagram?(word1, word2)
+
+end
+```
+
 Bonus:
 
 - Make a nice from end.  Allow the use to enter two phrases, indicate if they are anagrams of each other.
