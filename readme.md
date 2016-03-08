@@ -31,6 +31,10 @@ $ bundle Install
 $ rspec
 ```
 
+## Hint
+
+Want a hint? Try the "hint" branch.
+
 ## Bonus:
 
 - Ask the user for two words and compare
